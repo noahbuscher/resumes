@@ -1,6 +1,6 @@
 # Resumes
 
-Free clean, simple, and stylish resume templates.
+Free, clean, simple, and stylish resume templates.
 
 Available formats:
 
