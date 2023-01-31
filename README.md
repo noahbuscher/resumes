@@ -9,7 +9,7 @@ Available formats:
 
 Features:
 
-- 🤑 Completely free to use
+- 🤑 Completely free
 - 📄 Letter-size format
 - ☝🏼 Single page
 - 🔡 Free-to-use fonts only
